@@ -5,7 +5,7 @@ nombre2 = 5
 #esto es la concatenacion , la cual permite concatenar variables, sin importar su tipo 
 mensaje = f"hola  {nombre} , bienvenido a python"
 print(mensaje) #con una cadena
-mensaje = f"hola  {nombre2} , bienvenido a python"
+mensaje = f"hola  {nombre2} , bienvenido a python"#para meter valores distintos de chars se pone el f adelante
 print(mensaje) #con un entero
 
 
